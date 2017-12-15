@@ -33,3 +33,13 @@ And what about security? Won't people just lift these bots off the streets if no
 And what about maintainance? Who will maintain all these robots in all parts of the country?
 
 What about other alternatives? Having personal bikes or cars that can transform into defensive bots? Or better - what about small portable defense bots. That CANNOT be reprogrammed to be dangerous - only as a defense tool. If we make this affordable and get people to trust the tech - we potentially have a product. Two ideas. Need to weigh. Need to consider what can be developed. Can easily overtake invento - but we need some way to get funding and people. I need help. Not sure where to get it.
+
+Tue, December 12 2017 	,  9:51 PM 
+
+Companies have funded garbage collection robots in past. Means there is some way to monetize the plan - I don't know it yet. Govt + Company incentive 'seems' good enough for the project. I don't have any other job now, might as well do this.
+
+If I were to do it - the way to do it would be what? Color based detection?
+
+well, I think we recognize objects by shape more than color. Because I can probably distinguish any bottle in a black and white video feed even. Typical bottle features are a specific cylindrical shape, a cap or opening mechanism at the top, and probably transparent or designer text/pictures in between. But then again, babies often confuse different objects of same color even if they have different shapes. 
+
+Worth trying out SIFT classifiers to detect trash from non trash. One benefit is - any pickable inanimate object within a room, when found outside, could be trash.
